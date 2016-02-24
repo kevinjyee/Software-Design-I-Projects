@@ -1,0 +1,1 @@
+SpellCheck.d: ../SpellCheck.cpp
